@@ -1,0 +1,3 @@
+admin
+username: adinda@gmail.com
+password: 10987654321
